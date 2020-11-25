@@ -1,7 +1,5 @@
-
-
 class Bike
-  #attr_accessor :bike
+  attr_accessor :bike
 
   # def initialize
   #   @bike
